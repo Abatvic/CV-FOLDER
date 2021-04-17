@@ -1,0 +1,48 @@
+*{
+    
+    padding: 0;
+    
+
+}
+body {
+    color: black;
+}
+
+
+div.start {
+    background-color: rgb(5, 35, 53);
+    text-align: center;
+    border: 2px thin black;
+  padding: 25px;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+
+}
+h1,h2,h3,h4 {
+    color: tomato;
+}
+  #add {
+    font-size: 100%;
+    color: white;
+
+}
+.year { margin-right: 20px;
+    margin-left: 1000px;
+
+}
+ol.a {
+    list-style-type:square;
+}
+
+.others {
+    margin: 50px 500px 5px 0px;
+    background-color: inherit;
+    border-radius: 3mm;
+
+}
+
+}
+
+hr {
+    padding: 0px;
+}
